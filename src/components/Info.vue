@@ -52,7 +52,6 @@ export default{
             }else{
                 this.textoBotao='esconder e-mail'
             }
-            
         }
     }
 }
